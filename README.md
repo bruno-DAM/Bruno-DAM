@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, seja bem vindo!
+```yaml
+nome: Bruno Amorim
+trabalho_atual: Administrador de Rede e Auxiliar Administrativo
+formação:
+  [
+    "Segurança Cibernética - Serviço Nacional de Aprendizagem Comercial"
+    "CISCO Networking Academy (12 Certificados)" 
+  ]
 
-<!--
-**bruno-DAM/Bruno-DAm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+interesses
+  [
+    "SecDevOps"
+    "Data science & BI"
+    "SOC"
+  ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+contato
+  [
+    "(55) 51 982512470"
+    "bruno-amr@outlook.com"
+  ]
+```
