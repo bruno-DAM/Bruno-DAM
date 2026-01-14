@@ -21,3 +21,6 @@ contato
     "bruno-amr@outlook.com"
   ]
 ```
+### Outras redes
+!(Credly)[https://www.credly.com/users/bruno-amorim.05ce69ea]
+!(Linkedin)[https://www.linkedin.com/in/bruno-amorim-b876072b3/]
