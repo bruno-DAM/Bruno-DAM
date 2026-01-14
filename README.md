@@ -20,7 +20,9 @@ contato
     "(55) 51 982512470"
     "bruno-amr@outlook.com"
   ]
-```
-### Outras redes
-![Credly](https://www.credly.com/users/bruno-amorim.05ce69ea)
-![Linkedin](https://www.linkedin.com/in/bruno-amorim-b876072b3/)
+
+outras_redes
+  [
+    "https://www.credly.com/users/bruno-amorim.05ce69ea"
+    "https://www.linkedin.com/in/bruno-amorim-b876072b3/"
+  ]
