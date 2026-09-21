@@ -4,8 +4,9 @@ nome: Bruno Amorim
 trabalho_atual: Administrador de Rede e Auxiliar Administrativo
 formação:
   [
+    "Cursando - MBA em Business Intelligence, Management & Analytics - UniRitter
     "Segurança Cibernética - Serviço Nacional de Aprendizagem Comercial"
-    "CISCO Networking Academy (12 Certificados)" 
+    "CyberOps Associate - CISCO Networking Academy" 
   ]
 
 interesses
