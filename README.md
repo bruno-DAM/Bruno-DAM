@@ -22,7 +22,7 @@ contato:
     "bruno-amr@outlook.com"
   ]
 
-outras_redes:
+relevante:
   [
     "https://www.credly.com/users/bruno-amorim.05ce69ea"
     "https://www.linkedin.com/in/bruno-amorim-b876072b3/"
