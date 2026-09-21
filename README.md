@@ -1,7 +1,7 @@
 # Olá, seja bem vindo!
 ```yaml
 nome: Bruno Amorim
-trabalho_atual: Administrador de Rede e Auxiliar Administrativo
+trabalho_atual: Auxiliar de Rede e Administrativo
 formação:
   [
     "Cursando - MBA em Business Intelligence, Management & Analytics - UniRitter
@@ -9,20 +9,20 @@ formação:
     "CyberOps Associate - CISCO Networking Academy" 
   ]
 
-interesses
+interesses:
   [
     "SecDevOps"
     "Data science & BI"
     "SOC"
   ]
 
-contato
+contato:
   [
     "(55) 51 982512470"
     "bruno-amr@outlook.com"
   ]
 
-outras_redes
+outras_redes:
   [
     "https://www.credly.com/users/bruno-amorim.05ce69ea"
     "https://www.linkedin.com/in/bruno-amorim-b876072b3/"
